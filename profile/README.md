@@ -7,4 +7,4 @@
 
 ## Social links
 - [VK](https://vk.com/fojin)
-- [Website](https//fojin.tech)
+- [Website](https://fojin.tech)
