@@ -1,12 +1,10 @@
-## Hi there 👋
+![Fojin](https://raw.githubusercontent.com/FojinTech/.github/master/assets/banner.png)
 
-<!--
+## IT OUTSTAFFING AND DEVELOPMENT TEAMS FOR YOUR BUSINESS
+*We help you get the most out of modern software development technologies 💪*
 
-**Here are some ideas to get you started:**
+**Fojin** - is all about design, development and implementation of software solutions for business!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Social links
+- [VK](https://vk.com/fojin)
+- [Website](https//fojin.tech)
